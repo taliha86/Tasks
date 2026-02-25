@@ -26,3 +26,4 @@ After debugging
   kubectl get pods - to check if the pods are up
   kubectl get deployments -to  check deployments
   kubectl log deployments/web-app -to check logs of deployments
+ 
